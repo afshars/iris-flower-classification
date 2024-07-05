@@ -1,4 +1,4 @@
-# iris-flower-classification
+# Iris-flower-classification
 This project uses a logistic regression model to classify different species of Iris flowers based on their features.
 
 
